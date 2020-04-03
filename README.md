@@ -19,4 +19,4 @@ Please remember:
 
 You have multiple options to submit your question:
 * Fork this repo, branch from master and submit a pull request
-* Download this repo as a ZIP file, make your changes, and [e-mail the zip file to us](mailto%3Aatcteam%40bbd.co.za%3Fsubject%3DSubmit%20a%20question%2C%20win%20a%20prize).
+* Download this repo as a ZIP file, make your changes, and [e-mail the zip file to us](mailto:atcteam@bbd.co.za?subject=Submit%20a%20question%2C%20win%20a%20prize).
