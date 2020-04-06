@@ -1,10 +1,10 @@
 # Submit your question, win a prize
 
-This repo accompanies the competition BBD is running to imrove the number and quality of assessment questions. Please remember to read the [competition detail](https://bbdsoftware.com/downloads/bbd_mailers/2020/Question/Question-TC.html). 
+This repo accompanies the competition BBD is running to improve the number and quality of assessment questions. Please remember to read the [competition detail](https://bbdsoftware.com/downloads/bbd_mailers/2020/Question/Question-TC.html). 
 
-This repo contains an example question (don't worry, this one is not included in our actual assessment). We consider this question to be a beginner level question.
+This repo contains an example question (don't worry, this one is not included in our actual assessment). We consider this to be a beginner level question.
 
-We will archive this repository when competition closes on 21 April 2020.
+This repository will be archived when competition closes on 21 April 2020.
 
 Structure of a question:
 
